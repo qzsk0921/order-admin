@@ -21,13 +21,13 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.0",
     "@vue/cli-plugin-eslint": "^3.12.0",
-    "@vue/cli-service": "^3.12.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
-    "svg-sprite-loader": "^4.2.1",
+    "svg-sprite-loader": "^4.3.0",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
